@@ -12,3 +12,6 @@ Dans l'exercice ci-dessous vous devez créer les variables suivantes :
 console.log('Hello World!');
 ```
 
+Opération sur les variables
+Reprenez la déclaration des variables précédentes et :
+
