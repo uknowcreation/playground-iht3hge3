@@ -1,6 +1,12 @@
 # Les Variables!
 Déclaration des variables
-This Node.js template lets you get started quickly with a simple one-page playground.
+##Dans l'exercice ci-dessous vous devez créer les variables suivantes :
+num qui contient le nombre 255
+txt qui contient la chaîne de caractère 255
+bin qui contient la valeur booléenne vraie
+flt qui contient la valeur 7,23
+
+
 
 ```javascript runnable
 console.log('Hello World!');
